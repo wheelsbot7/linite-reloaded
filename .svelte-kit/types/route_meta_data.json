@@ -1,0 +1,8 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/linite": [
+		"src/routes/linite/+page.js"
+	]
+}

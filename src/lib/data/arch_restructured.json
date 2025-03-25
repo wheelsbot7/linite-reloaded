@@ -1,0 +1,792 @@
+{
+  "Utilities": [
+    {
+      "name": "Owncloud Client",
+      "icon": "owncloud.svg",
+      "program": "owncloud-client",
+      "category": "Utilities"
+    },
+    {
+      "name": "OpenJDK JRE",
+      "icon": "openjdk.svg",
+      "program": "jre-openjdk",
+      "category": "Utilities"
+    },
+    {
+      "name": "Alacritty",
+      "icon": "alacritty.svg",
+      "program": "alacritty",
+      "category": "Utilities"
+    },
+    {
+      "name": "Kitty",
+      "icon": "cat.svg",
+      "program": "kitty",
+      "category": "Utilities"
+    },
+    {
+      "name": "rattler-build",
+      "icon": "anaconda.svg",
+      "program": "rattler-build",
+      "category": "Utilities"
+    },
+    {
+      "name": "Bitwarden",
+      "icon": "bitwarden.svg",
+      "program": "bitwarden",
+      "category": "Utilities"
+    },
+    {
+      "name": "Deluge",
+      "icon": "deluge.svg",
+      "program": "deluge",
+      "category": "Utilities"
+    },
+    {
+      "name": "Electron",
+      "icon": "electron.svg",
+      "program": "electron",
+      "category": "Utilities"
+    },
+    {
+      "name": "FFmpeg",
+      "icon": "ffmpeg.svg",
+      "program": "ffmpeg",
+      "category": "Utilities"
+    },
+    {
+      "name": "Filezilla",
+      "icon": "filezilla.svg",
+      "program": "filezilla",
+      "category": "Utilities"
+    },
+    {
+      "name": "Flatpak",
+      "icon": "flatpak.svg",
+      "program": "flatpak",
+      "category": "Utilities"
+    },
+    {
+      "name": "Git + Lazygit",
+      "icon": "git.svg",
+      "program": "git lazygit",
+      "category": "Utilities"
+    },
+    {
+      "name": "Gitea",
+      "icon": "gitea.svg",
+      "program": "gitea",
+      "category": "Utilities"
+    },
+    {
+      "name": "GitLab",
+      "icon": "gitlab.svg",
+      "program": "gitlab",
+      "category": "Utilities"
+    },
+    {
+      "name": "Gnome Terminal",
+      "icon": "gnometerminal.svg",
+      "program": "gnome-terminal",
+      "category": "Utilities"
+    },
+    {
+      "name": "Hyprland",
+      "icon": "hyprland.svg",
+      "program": "hyprland",
+      "category": "Utilities"
+    },
+    {
+      "name": "I3",
+      "icon": "i3.svg",
+      "program": "i3-wm",
+      "category": "Utilities"
+    },
+    {
+      "name": "KDE Plasma",
+      "icon": "kdeplasma.svg",
+      "program": "plasma-meta",
+      "category": "Utilities"
+    },
+    {
+      "name": "Less",
+      "icon": "less.svg",
+      "program": "less",
+      "category": "Utilities"
+    },
+    {
+      "name": "Nextcloud",
+      "icon": "nextcloud.svg",
+      "program": "nextcloud",
+      "category": "Utilities"
+    },
+    {
+      "name": "Nix",
+      "icon": "nixos.svg",
+      "program": "nix",
+      "category": "Utilities"
+    },
+    {
+      "name": "Nvidia",
+      "icon": "nvidia.svg",
+      "program": "nvidia",
+      "category": "Utilities"
+    },
+    {
+      "name": "Nuget",
+      "icon": "nuget.svg",
+      "program": "nuget",
+      "category": "Utilities"
+    },
+    {
+      "name": "Proton VPN",
+      "icon": "protonvpn.svg",
+      "program": "proton-vpn-gtk-app",
+      "category": "Utilities"
+    },
+    {
+      "name": "QBittorrent",
+      "icon": "qbittorrent.svg",
+      "program": "qbittorrent",
+      "category": "Utilities"
+    },
+    {
+      "name": "QEMU",
+      "icon": "qemu.svg",
+      "program": "qemu-full",
+      "category": "Utilities"
+    },
+    {
+      "name": "RClone",
+      "icon": "rclone.svg",
+      "program": "rclone",
+      "category": "Utilities"
+    },
+    {
+      "name": "Subversion",
+      "icon": "subversion.svg",
+      "program": "subversion",
+      "category": "Utilities"
+    },
+    {
+      "name": "Syncthing",
+      "icon": "syncthing.svg",
+      "program": "syncthing",
+      "category": "Utilities"
+    },
+    {
+      "name": "Tmux",
+      "icon": "tmux.svg",
+      "program": "tmux",
+      "category": "Utilities"
+    },
+    {
+      "name": "Vulkan",
+      "icon": "vulkan.svg",
+      "program": "vulkan-tools",
+      "category": "Utilities"
+    },
+    {
+      "name": "Wayland",
+      "icon": "wayland.svg",
+      "program": "wayland",
+      "category": "Utilities"
+    },
+    {
+      "name": "Wezterm",
+      "icon": "wezterm.svg",
+      "program": "wezterm",
+      "category": "Utilities"
+    },
+    {
+      "name": "WireGuard",
+      "icon": "wireguard.svg",
+      "program": "wireguard-tools",
+      "category": "Utilities"
+    },
+    {
+      "name": "ZSH",
+      "icon": "zsh.svg",
+      "program": "zsh",
+      "category": "Utilities"
+    }
+  ],
+  "Editors": [
+    {
+      "name": "Vim",
+      "icon": "vim.svg",
+      "program": "vim",
+      "category": "Editors"
+    },
+    {
+      "name": "Neovim",
+      "icon": "neovim.svg",
+      "program": "neovim",
+      "category": "Editors"
+    },
+    {
+      "name": "Eclipse",
+      "icon": "eclipseide.svg",
+      "program": "eclipse-java-bin",
+      "category": "Editors"
+    },
+    {
+      "name": "Visual Studio Code - OSS",
+      "icon": "visualstudiocode.svg",
+      "program": "code",
+      "category": "Editors"
+    },
+    {
+      "name": "Zed Editor",
+      "icon": "zedindustries.svg",
+      "program": "zed",
+      "category": "Editors"
+    },
+    {
+      "name": "QTCreator",
+      "icon": "qt.svg",
+      "program": "qtcreator",
+      "category": "Editors"
+    },
+    {
+      "name": "Emacs",
+      "icon": "gnuemacs.svg",
+      "program": "emacs",
+      "category": "Editors"
+    },
+    {
+      "name": "Helix",
+      "icon": "helix.svg",
+      "program": "helix",
+      "category": "Editors"
+    },
+    {
+      "name": "Jupyter",
+      "icon": "jupyter.svg",
+      "program": "jupyter-notebook",
+      "category": "Editors"
+    },
+    {
+      "name": "Lapce",
+      "icon": "lapce.svg",
+      "program": "lapce",
+      "category": "Editors"
+    },
+    {
+      "name": "Micro",
+      "icon": "microeditor.svg",
+      "program": "micro",
+      "category": "Editors"
+    },
+    {
+      "name": "Nano",
+      "icon": "nano.svg",
+      "program": "nano",
+      "category": "Editors"
+    },
+    {
+      "name": "Notepadqq (Notepad++-like editor)",
+      "icon": "notepadplusplus.svg",
+      "program": "notepadqq",
+      "category": "Editors"
+    },
+    {
+      "name": "Obsidian",
+      "icon": "obsidian.svg",
+      "program": "obsidian",
+      "category": "Editors"
+    },
+    {
+      "name": "Zettlr",
+      "icon": "zettlr.svg",
+      "program": "zettlr",
+      "category": "Editors"
+    }
+  ],
+  "Development Tools": [
+    {
+      "name": "Python 3 Development",
+      "icon": "python.svg",
+      "program": "python3",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "OpenJDK",
+      "icon": "openjdk.svg",
+      "program": "jdk-openjdk",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Gcc and g++",
+      "icon": "gnu.svg",
+      "program": "gcc",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Make",
+      "icon": "make.svg",
+      "program": "make",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Apache HTTP Server",
+      "icon": "apache.svg",
+      "program": "apache",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Clang",
+      "icon": "c.svg",
+      "program": "clang",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Caddy",
+      "icon": "caddy.svg",
+      "program": "caddy",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "CMake",
+      "icon": "cmake.svg",
+      "program": "cmake",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Composer",
+      "icon": "composer.svg",
+      "program": "composer",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Dart",
+      "icon": "dart.svg",
+      "program": "dart",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Deno",
+      "icon": "deno.svg",
+      "program": "deno",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Django",
+      "icon": "django.svg",
+      "program": "python-django",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Docker + Docker Compose",
+      "icon": "docker.svg",
+      "program": "docker docker-compose",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Mono (open source .NET implementation)",
+      "icon": "dotnet.svg",
+      "program": "mono",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Elixir",
+      "icon": "elixir.svg",
+      "program": "elixir",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Erlang",
+      "icon": "erlang.svg",
+      "program": "erlang",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "ESbuild",
+      "icon": "esbuild.svg",
+      "program": "esbuild",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "ESlint",
+      "icon": "eslint.svg",
+      "program": "eslint",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Flask",
+      "icon": "flask.svg",
+      "program": "python-flask",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Godot",
+      "icon": "godotengine.svg",
+      "program": "godot",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Go",
+      "icon": "go.svg",
+      "program": "go",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Gradle",
+      "icon": "gradle.svg",
+      "program": "gradle",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Graphql client CLI",
+      "icon": "graphql.svg",
+      "program": "graphql-client-cli",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Graphite",
+      "icon": "graphite.svg",
+      "program": "graphite",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "GTK (2, 3, and 4)",
+      "icon": "gtk.svg",
+      "program": "gtk2 gtk3 gtk4",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Haskell",
+      "icon": "haskell.svg",
+      "program": "ghc stack",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Hugo",
+      "icon": "hugo.svg",
+      "program": "hugo",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Kotlin",
+      "icon": "kotlin.svg",
+      "program": "kotlin",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "LaTeX (texlive)",
+      "icon": "latex.svg",
+      "program": "texlive-latex",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "LLVM",
+      "icon": "llvm.svg",
+      "program": "llvm",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Lua",
+      "icon": "lua.svg",
+      "program": "lua",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "MariaDB",
+      "icon": "mariadb.svg",
+      "program": "mariadb",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "MDbook",
+      "icon": "mdbook.svg",
+      "program": "mdbook",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Mercurial",
+      "icon": "mercurial.svg",
+      "program": "mercurial",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Mermaid",
+      "icon": "mermaid.svg",
+      "program": "mermaid-cli mdbook-mermaid",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Nginx",
+      "icon": "nginx.svg",
+      "program": "nginx",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "NPM",
+      "icon": "npm.svg",
+      "program": "npm",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Octave",
+      "icon": "octave.svg",
+      "program": "octave",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Perl",
+      "icon": "perl.svg",
+      "program": "perl",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "PHP",
+      "icon": "php.svg",
+      "program": "php",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "PNPM",
+      "icon": "pnpm.svg",
+      "program": "pnpm",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Podman",
+      "icon": "podman.svg",
+      "program": "podman",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "postgresql.svg",
+      "program": "postgresql",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "R",
+      "icon": "r.svg",
+      "program": "r",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Rust (rustup)",
+      "icon": "rust.svg",
+      "program": "rustup",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "SQLite",
+      "icon": "sqlite.svg",
+      "program": "sqlite",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Tauri",
+      "icon": "tauri.svg",
+      "program": "cargo-tauri",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Zig",
+      "icon": "zig.svg",
+      "program": "zig",
+      "category": "Developer Tools"
+    }
+  ],
+  "Web Browsers": [
+    {
+      "name": "Chromium",
+      "icon": "googlechrome.svg",
+      "program": "chromium",
+      "category": "Web Browsers"
+    },
+    {
+      "name": "Firefox",
+      "icon": "firefoxbrowser.svg",
+      "program": "firefox",
+      "category": "Web Browsers"
+    },
+    {
+      "name": "LibreWolf",
+      "icon": "librewolf.svg",
+      "program": "librewolf-bin",
+      "category": "Web Browsers"
+    },
+    {
+      "name": "TOR Browser",
+      "icon": "torbrowser.svg",
+      "program": "torbrowser-launcher",
+      "category": "Web Browsers"
+    }
+  ],
+  "Graphics": [
+    {
+      "name": "Krita",
+      "icon": "krita.svg",
+      "program": "krita",
+      "category": "Graphics"
+    },
+    {
+      "name": "Aseprite",
+      "icon": "aseprite.svg",
+      "program": "aseprite",
+      "category": "Graphics"
+    },
+    {
+      "name": "Blender",
+      "icon": "blender.svg",
+      "program": "blender",
+      "category": "Graphics"
+    },
+    {
+      "name": "GIMP",
+      "icon": "gimp.svg",
+      "program": "gimp",
+      "category": "Graphics"
+    },
+    {
+      "name": "FreeCAD",
+      "icon": "freecad.svg",
+      "program": "freecad",
+      "category": "Graphics"
+    },
+    {
+      "name": "Inkscape",
+      "icon": "inkscape.svg",
+      "program": "inkscape",
+      "category": "Graphics"
+    }
+  ],
+  "Audio": [
+    {
+      "name": "Ardour",
+      "icon": "ardour.svg",
+      "program": "ardour",
+      "category": "Audio"
+    },
+    {
+      "name": "Audacity",
+      "icon": "audacity.svg",
+      "program": "audacity",
+      "category": "Audio"
+    },
+    {
+      "name": "LMMS",
+      "icon": "lmms.svg",
+      "program": "lmms",
+      "category": "Audio"
+    },
+    {
+      "name": "Musescore",
+      "icon": "musescore.svg",
+      "program": "musescore",
+      "category": "Audio"
+    }
+  ],
+  "Office": [
+    {
+      "name": "LibreOffice",
+      "icon": "libreoffice.svg",
+      "program": "libreoffice-fresh",
+      "category": "Office"
+    }
+  ],
+  "Media": [
+    {
+      "name": "Kodi",
+      "icon": "kodi.svg",
+      "program": "kodi",
+      "category": "Media"
+    },
+    {
+      "name": "VLC",
+      "icon": "vlcmediaplayer.svg",
+      "program": "vlc",
+      "category": "Media"
+    },
+    {
+      "name": "KDEnlive",
+      "icon": "kdenlive.svg",
+      "program": "kdenlive",
+      "category": "Media"
+    },
+    {
+      "name": "MPV",
+      "icon": "mpv.svg",
+      "program": "mpv",
+      "category": "Media"
+    },
+    {
+      "name": "OBS",
+      "icon": "obsstudio.svg",
+      "program": "obs-studio",
+      "category": "Media"
+    }
+  ],
+  "Messaging": [
+    {
+      "name": "Vesktop",
+      "icon": "vencord.svg",
+      "program": "vesktop-bin",
+      "category": "Messaging"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord.svg",
+      "program": "discord",
+      "category": "Messaging"
+    },
+    {
+      "name": "Element",
+      "icon": "element.svg",
+      "program": "element-desktop",
+      "category": "Messaging"
+    },
+    {
+      "name": "Signal",
+      "icon": "signal.svg",
+      "program": "signal-desktop",
+      "category": "Messaging"
+    },
+    {
+      "name": "Telegram",
+      "icon": "telegram.svg",
+      "program": "telegram-desktop",
+      "category": "Messaging"
+    },
+    {
+      "name": "Thunderbird",
+      "icon": "thunderbird.svg",
+      "program": "thunderbird",
+      "category": "Messaging"
+    }
+  ],
+  "Gaming": [
+    {
+      "name": "Lutris",
+      "icon": "lutris.svg",
+      "program": "lutris",
+      "category": "Gaming"
+    },
+    {
+      "name": "Steam",
+      "icon": "steam.svg",
+      "program": "steam",
+      "category": "Gaming"
+    }
+  ],
+  "Other": [
+    {
+      "name": "Virtualbox",
+      "icon": "virtualbox.svg",
+      "program": "virtualbox",
+      "category": "Other"
+    },
+    {
+      "name": "Wine",
+      "icon": "wine.svg",
+      "program": "wine",
+      "category": "Other"
+    }
+  ]
+}
